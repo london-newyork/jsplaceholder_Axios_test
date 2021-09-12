@@ -1,1 +1,3 @@
 # jsplaceholder_Axios_test
+
+JSPlaceholderを使ってのテストデータ実装とaxios導入テスト
